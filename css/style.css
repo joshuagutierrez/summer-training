@@ -6,3 +6,60 @@ h1 {
 	letter-spacing: -5px;
 	color: #666;
 }
+
+
+.wrap {
+	
+	
+	position: relative;
+	
+
+
+}
+
+.header {
+	background: #333;
+	border: 1px solid #333 ;
+	border-radius: 3px;  
+	margin:auto;
+	width: 50%;
+
+	
+}
+.header img {
+	display: block;
+	margin: auto;
+	position: relative;
+	padding-top: 10px;
+	border: 4px solid white;
+	border-radius: 3px;
+	top: 20px;
+
+
+}
+
+.header p, h2 {
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	padding-top: 10px;
+
+}
+
+.stats {
+	background: white;
+	padding-bottom: 3px;
+	font-size: 20px;
+}
+
+h2 {
+	max-height: 10px;
+}
+
+li {
+	display: inline-block;
+
+}
+
+
+
